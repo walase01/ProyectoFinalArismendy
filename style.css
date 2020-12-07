@@ -86,7 +86,12 @@ nav ul li a:hover{
     background-color: skyblue;
     
 }
-#imagen_principal{
-   width: 10px; height: 10px;
+.main img{
+float: left;
+width: 700px;
+height: 300px;
+}
+p{
+    float: left;
 }
 
